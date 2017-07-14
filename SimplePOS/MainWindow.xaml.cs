@@ -23,7 +23,6 @@ namespace SimplePOS
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show("KAMU KONTOL");
         }
     }
 }
